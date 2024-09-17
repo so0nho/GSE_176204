@@ -4,7 +4,7 @@ This repository performs a single-cell RNA sequencing analysis to replicate the 
 # Introduction summary
 The brain and retina undergo inflammation after injury and aging, but the molecular and cellular processes to resolve the inflammation are not well understood. Microglia have a crucial role in the central nervous system aging and neurodegenerative disorders, such as Alzheimer's disease and glaucoma. Normal microglia functions help maintain the brain's activity such as clearing synapses and pathogen surveillance, however, the uncontrolled activation of microglia can damage and kill neurons. 
 
-In this repository, I will analyze """gene expression data from microglia isolated from retinas of mice. Using scRNA-seq we can perform differential gene expression 
+In this repository, I will analyze gene expression data of microglia isolated from retinas of mice. 
 
 
 
